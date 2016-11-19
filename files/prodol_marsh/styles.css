@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(51, 51, 51, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:874px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u42_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:801px;
+}
+#u42 {
+  position:absolute;
+  left:400px;
+  top:0px;
+  width:474px;
+  height:801px;
+}
+#u43 {
+  position:absolute;
+  left:2px;
+  top:392px;
+  width:470px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u44_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u44 {
+  position:absolute;
+  left:504px;
+  top:496px;
+  width:255px;
+  height:50px;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u45 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  word-wrap:break-word;
+}
+#u46_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u46 {
+  position:absolute;
+  left:504px;
+  top:580px;
+  width:255px;
+  height:50px;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u47 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  word-wrap:break-word;
+}
+#u48_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u48 {
+  position:absolute;
+  left:504px;
+  top:660px;
+  width:255px;
+  height:50px;
+  font-family:'Century Gothic Обычный', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+#u49 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:255px;
+  word-wrap:break-word;
+}
